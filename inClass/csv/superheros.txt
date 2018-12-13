@@ -1,0 +1,5 @@
+name,hero,power
+Clark,Superman,everything
+Bruce,Batman,money
+Diana,Wonder,goddess
+

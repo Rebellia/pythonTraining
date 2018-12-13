@@ -1,0 +1,12 @@
+---
+
+ name: Zach Feeser
+  vars:
+    var1: "cat"
+    var2: "dog"
+    var3: "snake"
+  things_to_do:
+    - first item on list
+    - second item on list
+    - third item on list
+...
