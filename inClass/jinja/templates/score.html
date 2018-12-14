@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+    <body>
+        {% if marks>100 %}
+        <h1>I have never seen such high scoring</h1>
+        <h2> Your score: {{ marks }} </h2>
+        {%else%}
+        <h1>Your result is a fail</h1>
+        <h2>Your score: {{ marks }}</h2>
+        {%endif%}
+    </body>
+</html>
